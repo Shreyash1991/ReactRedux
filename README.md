@@ -1,3 +1,25 @@
+This is a simple Contact Management Application(Created just for exercise purpose)
+
+It has two user flows:-
+1.     Admin
+    a.       Login/Logout
+    b.       Admin can enable/disable all user.
+    c.       Listing all user.
+    d.       Add/Edit/List/Search/Delete (one-by-one)/Delete(multi) all Users.
+
+2.     User
+    a.       Login/Logout
+    b.       User Registration
+    c.       Add/Edit/List/Search/Delete (one-by-one)/Delete(multi) all Users.
+
+Note:- 1) Name & Password for Admin is "Shreyash" & "shreyash" respectively.
+       2) As i have used API so please run the command "npm run json:server" for hosting and fetching the data.
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
