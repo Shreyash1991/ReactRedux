@@ -1,0 +1,41 @@
+{
+  "Users": [
+    {
+      "enable": true,
+      "name": "Shreyash",
+      "password": "shreyash",
+      "type": "Admin1",
+      "id": 1
+    },
+    {
+      "enable": true,
+      "name": "Sam",
+      "password": "shreyash",
+      "type": "User2",
+      "id": 2
+    },
+    {
+      "id": "110b37e0-278d-11e8-94c3-5dedc4660d34",
+      "name": "Snehal",
+      "password": "0987654321",
+      "type": "User110b5ef0-278d-11e8-94c3-5dedc4660d34",
+      "enable": true
+    }
+  ],
+  "Contacts": [
+    {
+      "name": "Rocky",
+      "id": 1,
+      "number": 123456789,
+      "type": "User2",
+      "isEditing": false
+    },
+    {
+      "isEditing": false,
+      "name": "bill",
+      "number": "123456799",
+      "type": "Admin1",
+      "id": 2
+    }
+  ]
+}

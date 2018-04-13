@@ -1,0 +1,18 @@
+.marginTop{
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.name{
+    font-weight: 700;
+    
+}
+
+.value{
+    font-weight: 500;
+    
+}
